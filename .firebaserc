@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "my-firebase-5d842",
+    "my-firebase-demo": "my-firebase-5d842"
+  },
+  "targets": {},
+  "etags": {}
 }
